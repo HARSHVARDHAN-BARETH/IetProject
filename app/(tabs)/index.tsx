@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
   textedit: {
     color: 'white',
     fontSize: 50,
-    marginBottom: 50,
+    marginBottom: 60,
   },
   container: {
     flex: 1,

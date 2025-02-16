@@ -125,7 +125,7 @@ const Calculator = () => {
        </View>
         </View>
           <TouchableOpacity onPress={() => computation()} style={[style.button,{height:139, backgroundColor:'crimson'}]}>
-            <Text style={[style.buttonText]}>=</Text>
+            <Text style={[style.buttonText]}>==</Text>
           </TouchableOpacity>
    </View>
    <View style={{flexDirection:'row', marginTop:-1}}>

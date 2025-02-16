@@ -24,7 +24,7 @@ export default function HomeScreen() {
       <Image  source={{uri:'https://static.vecteezy.com/system/resources/previews/005/677/481/non_2x/air-balloon-logo-vintage-illustration-template-icon-design-retro-badge-circle-with-creative-typography-free-vector.jpg'}} style={styles.logo} />
       </View>
      <View style={styles.subView}> 
-      <Text style={styles.title}>SignUp</Text>
+      <Text style={styles.title}>Sign-Up</Text>
 
       <Text style={styles.text}>Username</Text>
 
